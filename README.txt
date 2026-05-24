@@ -1,9 +1,11 @@
-========== selenium =========
+========== SELENIUM =========
 
 npm init -y
 npm install selenium-webdriver
+
+npm install -g mocha
 ----------------------------------------------------------
-=========== playwright ============
+=========== PLAYWRIGHT ============
  
 npm init playwright@latest
 =========================
